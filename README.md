@@ -30,7 +30,7 @@ To get started with the Midnapore College Mobile App, follow these steps:
    ```bash
    git clone https://github.com/debjit0001/MCA_app.git
    cd MCA_app
-
+   ```
 
 2. **Connect mobile device:**
 
@@ -45,12 +45,16 @@ To get started with the Midnapore College Mobile App, follow these steps:
 
    ```bash
    npx react-native run-android
+
+   npx react-native start
    ```
 
    ### For iOS
 
    ```bash
    npx react-native run-ios
+
+   npx react-native start
    ```
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
@@ -88,6 +92,4 @@ Please ensure your code adheres to our coding standards and includes appropriate
 
 ### Developers
 
-#### Debjit Mahato
-
-#### Arnab Pratihar
+#### Debjit Mahato && Arnab Pratihar
